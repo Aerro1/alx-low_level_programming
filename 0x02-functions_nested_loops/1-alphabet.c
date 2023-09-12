@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * description: print_alphabet - utilizes on the _putchar finc to print a-z
+ * print_alphabet - utilizes on the _putchar func to print a-z
 */
 
 int print_alphabet(void)
