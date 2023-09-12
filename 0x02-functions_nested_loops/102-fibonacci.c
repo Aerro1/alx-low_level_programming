@@ -19,7 +19,7 @@ int main(void)
 		sum = fibl + fib2;
 		printf("%lu", sum);
 
-		fibi = fib2;
+		fib1 = fib2;
 		fib2 = sum;
 
 		if (count == 49)
