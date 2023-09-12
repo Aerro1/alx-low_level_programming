@@ -3,6 +3,8 @@
 /**
  * _islower - function to check if character is lowercase or uppercase
  *
+ * description: find if var is alpha
+ *
  * @c: checks input from other function
  *
  * Return: return 1 if true
